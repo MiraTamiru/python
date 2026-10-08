@@ -262,7 +262,7 @@ def display_menu():
 def main():
     students = load_students()
 
-  print("\nWelcome to Mira's Student Management System!")
+  print("\nWelcome to Mira Student Management System!")
 
     while True:
         display_menu()
